@@ -33,3 +33,29 @@ Clone this repository and navigate into its directory:
 ```bash
 git clone https://github.com/yourusername/PasswordGen.git
 cd PasswordGen
+
+## Usage
+
+Run the script from your terminal:
+
+```bash
+python PasswordGen.py
+You will be prompted to enter:
+
+How many letters you want in your password
+
+How many symbols you want
+
+How many numbers you want
+
+Example session:
+
+```
+Welcome to the PyPassword Generator!
+How many letters would you like in your password?
+> 10
+How many symbols would you like?
+> 2
+How many numbers would you like?
+> 4
+Generated password: aKfBdRtYpL!&5382
