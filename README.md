@@ -38,7 +38,6 @@ Run the script from your terminal:
 
 ```
 python PasswordGen.py
-
 ```
 You will be prompted to enter:
 
@@ -65,7 +64,8 @@ Character Pools:
 -numbers: a list of digits 0–9 
 
 ###User Input
--The script prints a welcome message and uses input() to read three integer values specifying how many letters, symbols, and numbers to include .
+-The script prints a welcome message and uses input() to read three integer values specifying how many 
+letters, symbols, and numbers to include .
 
 ###Random Selection
 -For each category, it picks the requested number of characters using random.choice(), appending each to a list .
