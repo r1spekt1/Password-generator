@@ -62,17 +62,17 @@ Character Pools:
 -symbols: a list of common special characters
 -numbers: a list of digits 0–9 
 
-###User Input
--The script prints a welcome message and uses input() to read three integer values specifying how many 
+User Input
+-The script prints a welcome message and uses input() to read three integer values specifying how many  
 letters, symbols, and numbers to include .
 
-###Random Selection
+Random Selection
 -For each category, it picks the requested number of characters using random.choice(), appending each to a list .
 
-###Shuffling
+Shuffling
 -The combined list of characters is shuffled with random.shuffle() to ensure full randomness .
 
-###Output
+Output
 -The shuffled list is joined into a single string and printed to the console as the final password. 
 
 ## Customization
