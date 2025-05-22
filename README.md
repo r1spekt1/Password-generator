@@ -1,4 +1,4 @@
-# PyPassword Generator
+# Password Generator
 
 A simple, command-line Python script for generating randomized secure passwords.
 
