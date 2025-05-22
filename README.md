@@ -39,12 +39,11 @@ Run the script from your terminal:
 ```
 python PasswordGen.py
 ```
->You will be prompted to enter:
+You will be prompted to enter:
 
--How many letters you want in your password?
--How many symbols you want?
--How many numbers you want?
->
+-How many letters you want in your password?  
+-How many symbols you want?  
+-How many numbers you want?  
 Example session:
 ```
 Welcome to the PyPassword Generator!
